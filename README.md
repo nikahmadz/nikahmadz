@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- Visit my Github Page ⚡ [nikahmadz.github.io][1]
+### Hi there 👋 - Visit my Github Page ⚡ [nikahmadz.github.io][1]
 
 [1]:https://nikahmadz.github.io
 
