@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Visit my Github Page ⚡ [nikahmadz.github.io][1]
+
+[1]:https://nikahmadz.github.io
+
 <!--
 **nikahmadz/nikahmadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
