@@ -1,8 +1,6 @@
 ***
 ### [nikahmadz.github.io][1]
 ***
-🔭 I’m currently working on [this project](https://github.com/nikahmadz/sandbox)
-***
 [Home][1] &middot; [Discuss][2]
 
 [1]:https://nikahmadz.github.io
