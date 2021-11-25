@@ -1,8 +1,9 @@
 ---
 ### [nikahmadz.github.io][1]
 ---
-#### [Home][1] &middot; [Sandbox][2] &middot; [Discuss][3]
+🔭 I’m currently working on [this][2]
 ---
+#### [Home][1] &middot; [Discuss][3]
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz/sandbox
