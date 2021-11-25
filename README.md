@@ -1,13 +1,12 @@
 ***
 ### [nikahmadz.github.io][1]
 ***
-🔭 I’m currently working on [this sandbox app][2]
+🔭 I’m currently working on [this project](https://github.com/nikahmadz/sandbox)
 ***
-#### [Home][1] &middot; [Discuss][3]
+[Home][1] &middot; [Discuss][2]
 
 [1]:https://nikahmadz.github.io
-[2]:https://github.com/nikahmadz/sandbox
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
+[2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
 
 <!--
 **nikahmadz/nikahmadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
