@@ -1,8 +1,4 @@
-### 👋 Hi there -- Visit my page @ [nikahmadz.github.io][1]
-
-***
-
-[Home][1] &middot; [Sandbox][2] &middot; [Discuss][3]
+### [nikahmadz.github.io][1] &middot; [Sandbox][2] &middot; [Discuss][3]
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz/sandbox
