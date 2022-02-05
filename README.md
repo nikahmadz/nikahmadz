@@ -1,7 +1,8 @@
-***
 [Home][1]
 &middot; [Discuss][2]
 &middot; [Payment](https://nikahmadz.github.io/pay "See payment options")
+
+***
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
