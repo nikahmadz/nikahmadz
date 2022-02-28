@@ -1,3 +1,7 @@
+I love building stuff. I started working as a programmer back in 2005 and has been coding ever since. I have more than a decade of working experience in developing softwares, websites and applications. Currently, I'm focusing on the development of some **Web & Mobile Apps**. If you were interested in working together on a project, feel free to [discuss it with me][2].
+
+***
+
 [Home][1]
 &middot; [Discuss][2]
 &middot; [Payment](https://nikahmadz.github.io/pay "See payment options")
