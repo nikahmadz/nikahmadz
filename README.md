@@ -10,8 +10,8 @@ If you are interested in working together on a project, feel free to [discuss it
 
 ***
 
-[1]:https://nikahmadz.github.io
-[2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
+[1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
+[2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
 
 <!--
 **nikahmadz/nikahmadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
