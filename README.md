@@ -4,7 +4,7 @@ I love building stuff. I started working as a programmer back in 2005 and have b
 
 [Home][1]
 &middot; [Discuss][2]
-&middot; [Fund](https://nikahmadz.github.io/pay "See payment options")
+&middot; [Sponsor](https://nikahmadz.github.io/pay "See payment options")
 
 ***
 
