@@ -1,4 +1,6 @@
-I love building stuff. I started working as a programmer back in 2005 and have been coding ever since. Currently, I'm focusing on the development of some **Web & Mobile Apps**. If you are interested in working together on a project, feel free to [discuss it with me][2].
+I love building stuff.
+Currently, I'm focusing on the development of some **Web & Mobile Apps**.
+If you are interested in working together on a project, feel free to [discuss it with me][2].
 
 ***
 
