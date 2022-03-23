@@ -6,7 +6,7 @@ If you are interested in working together on a project, feel free to [discuss it
 
 [Home][1]
 &middot; [Discuss][2]
-&middot; [Sponsor](https://nikahmadz.github.io/pay "See payment options")
+&middot; [Sponsor](https://nikahmadz.github.io/!#fund "See payment options")
 
 ***
 
