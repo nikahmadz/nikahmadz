@@ -1,7 +1,7 @@
 ### Hi there, I'm Nik 👋
 
 I love building stuff ❤️ for everyone's benefit.  
-Currently, I'm focusing on the development of some **Web & Mobile Apps**.  
+Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
 If you have awesome ideas to share or interested in working together, feel free to [discuss it with me][2].
 
 🌱 **Please consider [supporting projects][pay] you like**, so I can continue making it better.
@@ -15,7 +15,7 @@ If you have awesome ideas to share or interested in working together, feel free 
 [1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
 [pay]: https://nikahmadz.github.io/#!pay "See payment options"
-
+[recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"
 <!--
 **nikahmadz/nikahmadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
