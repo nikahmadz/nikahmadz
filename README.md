@@ -1,5 +1,6 @@
 I love building stuff.
 Currently, I'm focusing on the development of some **Web & Mobile Apps**.
+
 If you are interested in working together, feel free to [discuss it with me][2].
 
 ***
