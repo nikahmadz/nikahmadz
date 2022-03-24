@@ -16,8 +16,11 @@ If you have awesome ideas to share or interested in working together, feel free 
 
 [1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
+
 [pay]: https://nikahmadz.github.io/#!pay "See payment options"
 [recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"
+
+
 <!--
 **nikahmadz/nikahmadz** is a ✨ special ✨ repository because its `README.md` file appears on your GitHub profile.
 Here are some ideas to get you started:
