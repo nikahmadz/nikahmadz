@@ -1,5 +1,7 @@
 ### Hi, I'm Nik 👋
 
+***
+
 I love building stuff ❤️ for everyone's benefit.
 Currently, I'm focusing on the development of some **Web & Mobile Apps**.
 
