@@ -14,7 +14,7 @@ If you have awesome ideas to share or interested in working together, feel free 
 
 [1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
-[pay]: https://nikahmadz.github.io/pay "See payment options"
+[pay]: https://nikahmadz.github.io/#!pay "See payment options"
 
 <!--
 **nikahmadz/nikahmadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
