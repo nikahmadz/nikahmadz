@@ -1,5 +1,3 @@
-***
-
 # Hi there, I'm Nik 👋
 
 A developer living and working in Selangor, Malaysia.
