@@ -2,7 +2,7 @@
 
 A developer living and working in Selangor, Malaysia.
 ❤️ I love building stuff for everyone.  
-Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
+Currently, focusing on some development of **[Web & Mobile Apps][recent-projects]**.  
 If you have awesome ideas to share or interested in working together, feel free to **[discuss it with me][discuss]**.
 
 [🌱][wiki] **Please consider [supporting projects][pay] you like**, so I can continue making it better.
