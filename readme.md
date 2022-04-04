@@ -14,7 +14,7 @@ If you have awesome ideas to share or interested in working together, feel free 
 &middot; **[Discuss][2]**
 &middot; **[Sponsor][pay]**
 
-[1]:https://nikahmadz.github.io "Visit nikahmadz.github.io"
+[1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
 
 [pay]: https://nikahmadz.github.io/#!pay "See payment options"
