@@ -2,6 +2,7 @@
 
 # Hi there, I'm Nik 👋
 
+A developer living and working in Selangor, Malaysia.
 ❤️ I love building stuff for everyone's benefit.  
 Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
 If you have awesome ideas to share or interested in working together, feel free to **[discuss it with me][discuss]**.
